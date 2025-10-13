@@ -9,3 +9,6 @@ https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/finishedM
 
 2: SKI HILL EXAMPLE: modeling future behavior using transition matrices.
 https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/FINAL_of_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
+
+3: SECRET NUMBER: finding a secret fifth degree polynomial using matrices
+https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/Math_311_secret_number.ipynb
