@@ -12,3 +12,6 @@ https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/FINAL_of_
 
 3: SECRET NUMBER: finding a secret fifth degree polynomial using matrices
 https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/Math_311_secret_number.ipynb
+
+4: SPORT RANKING: use matrices to find which sport (soccer) team is better ased on pint differentails and gmaes won.
+https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/Copy_of_Sports_Teams_Rankings.ipynb
