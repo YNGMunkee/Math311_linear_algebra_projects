@@ -15,3 +15,6 @@ https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/Math_311_
 
 4: SPORT RANKING: use matrices to find which sport (soccer) team is better ased on pint differentails and gmaes won.
 https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/Copy_of_Sports_Teams_Rankings.ipynb
+
+5: ORTHONORMALIZATION WITH GRAM SCHMIDT
+https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/gram_schmidt.ipynb
