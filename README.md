@@ -20,4 +20,4 @@ https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/Copy_of_S
 https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/gram_schmidt.ipynb
 
 
-short narrative: this readme includes some notable projects i completed in my linear algebra class during my first semester at winona state, incluting interactive links to all projects. this repository was required for class and created in september 2025. all projects use python.
+short narrative: this readme includes some notable projects i completed in my linear algebra class during my first semester at winona state, incluting interactive links to all projects. this repository was required for class and created in september 2025. all projects use python. all base structure of code was from my professor, Aaron Wangberg, and i modified, worked with, and adjusted the code for my class assignments.
