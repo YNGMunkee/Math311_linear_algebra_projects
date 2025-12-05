@@ -4,7 +4,7 @@ this is a repository of projects for the math311 linear algebra course at winona
 
 projects for linear algemra
 
-1: solving systems of equations with colab:
+1: solving systems of equations with colab: messed around in python
 https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/finishedMath_311_solve_systems_using_computation_and_rref.ipynb
 
 2: SKI HILL EXAMPLE: modeling future behavior using transition matrices.
@@ -18,3 +18,6 @@ https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/Copy_of_S
 
 5: ORTHONORMALIZATION WITH GRAM SCHMIDT
 https://github.com/YNGMunkee/Math311_linear_algebra_projects/blob/main/gram_schmidt.ipynb
+
+
+short narrative: this readme includes some notable projects i completed in my linear algebra class, incluting interactive links to all projects.
